@@ -1,0 +1,19 @@
+---
+:source:
+  :path: test
+  :file: test_triangle.c
+:successes:
+- :test: test_classify_3_4_and_5
+  :line: 17
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 1
+  :failed: 0
+  :ignored: 0
+:stdout:
+- 'Short1: 3'
+- 'Short2: 4'
+- 'Long: 5'
